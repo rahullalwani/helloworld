@@ -7,17 +7,20 @@
     <groupId>com.github.rahullalwani</groupId>
     <artifactId>helloworld</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <name>Hello World Application</name>
     <description>Executing dependent/Independent tasks in a reliable way, is made so easy that even your grandma can do it.</description>
     <url>https://github.com/rahullalwani/helloworld</url>
 
+    <!--
     <organization>
         <url>https://github.com/rahullalwani</url>
         <name>rahul</name>
     </organization>
 
     <inceptionYear>2020</inceptionYear>
+    -->
 
     <licenses>
         <license>
